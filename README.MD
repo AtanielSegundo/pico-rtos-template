@@ -1,4 +1,3 @@
----
 ### 🚀 COMO USAR
 
 #### 📌 Passo 1:
@@ -19,4 +18,3 @@ rm -rf .git
 git init
 git remote add origin https://github.com/seu-usuario/seu-repo.git
 ```
----
